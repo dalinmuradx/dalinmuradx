@@ -1,64 +1,50 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100" alt="Laptop" />
 
 # Hi there, I'm Dalin! 👋
-### 🤖 AI & Robotics Engineering Student | 💡 Lifelong Learner & Explorer
+### 🤖 AI & Robotics Engineering Student | Always Curious, Always Experimenting
 
 <p align="center">
-Stepping confidently into the unknown. I believe in the power of experimenting, learning by doing, and building things from scratch. Currently exploring the vast universe of Artificial Intelligence and Robotics to find my ultimate passion!
+  <a href="https://www.linkedin.com/in/dalin-murad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/dalin.murad.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </div>
 
-<br>
-</div>
+<hr>
 
-<hr></hr>
+### 💡 About Me
+- 🌱 I’m currently diving deep into my **AI & Robotics** studies and exploring new technologies.
+- 💻 Planning and building my very first project using **C++**! 
+- 🧭 I might not have found my ultra-specific niche yet, but I love the journey of experimenting, breaking things, and figuring out how they work.
+- ⚡ **Motto:** "Be confident in your steps, but never stop exploring the unknown."
 
-### 👩‍💻 About My Journey
+<hr>
 
-- 🌱 **Current Status:** Still a student, absorbing knowledge, and figuring out my specialized niche within AI & Robotics.
-- 🚀 **What's Next:** Exciting times! I'm currently planning and working on my **very first C++ project**. 
-- 🛠️ **My Philosophy:** Sometimes I know exactly what I'm doing, and sometimes I just dive in to test the waters with zero background. Experimentation is the best teacher!
-- 💬 **Ask me about:** My learning journey, tech enthusiasm, or how to embrace the trial-and-error process.
-
-<br>
-
-### ⚙️ Tech Stack & Tools I'm Exploring
+### 🛠️ Tech Stack & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 
-<br>
+```cpp
+// Dalin's Profile Snapshot
+#include <iostream>
+#include <string>
 
-```python
-# The Mindset of an Explorer
+using namespace std;
 
-class Dalin:
-    def __init__(self):
-        self.role = "AI & Robotics Engineering Student"
-        self.current_focus = "Building my first C++ project"
-        self.superpower = "Unafraid to experiment from zero"
-        self.passion = "Artificial Intelligence & Robotics"
-        
-    def execute_daily_routine(self):
-        while True:
-            self.learn()
-            self.try_new_things()
-            if self.fail():
-                self.debug_and_grow()
-            else:
-                self.celebrate_small_wins()
+class DalinMurad {
+public:
+    string major = "AI & Robotics Engineering";
+    string currentFocus = "Building my first C++ project!";
+    bool isCurious = true;
+    
+    void explore() {
+        cout << "Learning, experimenting, and growing every single day! 🚀" << endl;
+    }
+};
