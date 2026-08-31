@@ -8,11 +8,9 @@
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
-</details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
-</div>
+
+
 
 <hr></hr>
 
@@ -33,7 +31,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ```python
-# About Me - AI & Robotics Edition
+# About Me - AI & Robotics Engineering
 
 class Dalin:
     def __init__(self):
